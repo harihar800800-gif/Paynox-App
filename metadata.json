@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Paynox Finance Private Limited Loan Application",
+  "description": "A multi-step, responsive loan application form for Paynox Finance Private Limited, allowing users to apply for personal loans easily. Built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
